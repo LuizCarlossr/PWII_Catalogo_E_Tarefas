@@ -46,7 +46,7 @@ Este projeto é uma aplicação de console em Java que interage com a API [Dummy
 
 ---
 
-## 🧪 Requisitos de Qualidade
+##  Requisitos de Qualidade
 
 - Tratamento de erros:
     - IO
